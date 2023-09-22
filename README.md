@@ -1,4 +1,4 @@
-# Miniproyecto--Contador 🙂
+# miniProyecto--Contador 🙂
 Realice mi primer proyecto sencillo y útil con los fundamentos de JavaScript
 ## Autor
 **David Martínez**
